@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Offline GPS Tracker",
+  "description": "An offline-capable React.js app that tracks user movements via GPS, integrates Google Maps for visualization, records location, speed, distance, and area. Data is stored locally using IndexedDB and can be exported to a professional PDF.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
